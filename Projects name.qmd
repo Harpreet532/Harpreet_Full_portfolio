@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+## My Projects
+
+Here’s a selection of my data and analytics projects, with summaries and previews:
+
+
+### Customer Journeys 
+
+![](customer journey.jpg){width=100%}
+
+
+
+
+Analyzed the **marketing funnel** to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.  
+[View Project »](https://www.notion.so/Customer-Journeys-1f5b2b4d418281c48731cbdab3d976f3)
+
+### Hospital KPIs Analysis
+
+![](hospital.jpg){width=100%}
+
+
+
+
+Evaluated hospital **operational performance** using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.  
+[View Project »](https://www.notion.so/Hospital-Survey-Analysis-1f5b2b4d418281a8b374f9e4f9583957)
+
+### Email Campaign Funnel Analysis
+
+![](email_analysis.jpg){width=100%}
+
+
+Assessed **email engagement performance** across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.  
+[View Project »](https://www.notion.so/Email-Campaign-Analysis-1fbb2b4d41828010aa7fce623ae1ef1b)
+
+
+

@@ -1,0 +1,19 @@
+---
+title: "Skills & Certifications"
+---
+
+
+## 💻 Technical Skills
+- Data Analysis: Python (Pandas, NumPy), SQL, Excel, Power Query 
+- Visualization: Tableau, Power BI, Matplotlib   
+
+## 📑 Certifications
+- Google Data Analytics Professional Certificate (Coursera) (In progress) 
+- Tableau Desktop Specialist (In progress)
+
+
+## 🌟 Soft Skills
+- Strategic Thinking & Business Analysis  
+- Communication & Presentation Skills  
+- Leadership & Team Collaboration  
+- Problem Solving & Critical Thinking  

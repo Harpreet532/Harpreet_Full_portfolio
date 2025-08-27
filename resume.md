@@ -1,0 +1,48 @@
+---
+
+title: "Resume / CV"
+
+---
+
+
+
+\# 📄 Resume
+
+
+
+\[⬇️ Download my Resume (PDF)](assets/resume.pdf){.btn .btn-primary}
+
+
+
+\## Education
+
+\- \*\*MBA, University Canada West\*\* (Expected 2025)  
+
+&nbsp; Focus: Business Analytics  
+
+
+
+\- \*\*B.Sc. Computer Science, Guru Nanak Dev University, India\*\* (2009)  
+
+&nbsp; Concentration: SQL, C++, DBMS  
+
+
+
+\## Work Experience
+
+\- \*\*Society for Meritorious Schools\*\* – Data Analyst (2024)  
+
+&nbsp; - Conducted student performance research leading to a \*\*10% improvement in student retention rate\*\*.  
+
+&nbsp; - Developed \*\*Tableau dashboards\*\* to assess comparative performance of institution leading to \*\*6% improvement in admissions\*\*.  
+
+
+
+\- \*\*DIPS Group of Colleges\*\* – Data Analyst (2012–2015)  
+
+&nbsp; - Developed \*\*SQL data query\*\* for identifying key problematic areas in academics and improving institution ranking by 10 ranking.  
+
+&nbsp; - Implemented a staff leave application database project for efficient leave tracking and analysis, which decreased administrative
+
+workload by 15%..  
+
