@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Harpreet Singh_portfolio",
+    "section": "",
+    "text": "My Profile Photo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Harpreet Singh",
+    "section": "About",
+    "text": "About\nI am a data analyst with a strong background in the education sector, specializing in transforming complex data into actionable insights to support student success and institutional improvement. With hands-on experience in data visualization, reporting, and trend analysis, I help drive data-informed decision-making in educational environments.\nMy mission is “To harness the power of data to uncover opportunities, solve problems, and create measurable impact”."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Harpreet Singh",
+    "section": "Education",
+    "text": "Education\nMBA\nUniversity Canada West (2025)\nBachelor of Computer Science\nD.A.V College, Jalandhar, India"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Harpreet Singh",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nData Analyst\nMeritorious Schools Punjab (October 2015-September 2024)\nData Analyst\nDips Group of Institutions (July 2012- October 2015)"
+  },
+  {
+    "objectID": "index.html#key-skills",
+    "href": "index.html#key-skills",
+    "title": "Harpreet Singh",
+    "section": "Key Skills",
+    "text": "Key Skills\nSQL, Tableau, Excel, Python, Communication, Time management, Problem Solving"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "📄 Resume",
+    "section": "",
+    "text": "⬇️ Download my Resume (PDF)\n\n\nMBA, University Canada West (Expected 2025)\n  Focus: Business Analytics\nB.Sc. Computer Science, Guru Nanak Dev University, India (2009)\n  Concentration: SQL, C++, DBMS\n\n\n\nSociety for Meritorious Schools – Data Analyst (2024)\n  Conducted student performance research leading to a 10% improvement in student retention rate.\n  Developed Tableau dashboards to assess comparative performance of institution leading to 6% improvement in admissions.\nDIPS Group of Colleges - Data Analyst (2012–2015)\n  Developed SQL data query for identifying key problematic areas in academics and improving institution ranking by 10 ranking.\n  Implemented a staff leave application database project for efficient leave tracking and analysis, which decreased administrative workload by 15%.."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "📄 Resume",
+    "section": "",
+    "text": "MBA, University Canada West (Expected 2025)\n  Focus: Business Analytics\nB.Sc. Computer Science, Guru Nanak Dev University, India (2009)\n  Concentration: SQL, C++, DBMS"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "📄 Resume",
+    "section": "",
+    "text": "Society for Meritorious Schools – Data Analyst (2024)\n  Conducted student performance research leading to a 10% improvement in student retention rate.\n  Developed Tableau dashboards to assess comparative performance of institution leading to 6% improvement in admissions.\nDIPS Group of Colleges - Data Analyst (2012–2015)\n  Developed SQL data query for identifying key problematic areas in academics and improving institution ranking by 10 ranking.\n  Implemented a staff leave application database project for efficient leave tracking and analysis, which decreased administrative workload by 15%.."
+  },
+  {
+    "objectID": "resume/about.html",
+    "href": "resume/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "resume",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a selection of my data and analytics projects, with summaries and previews:\n ### Customer Journeys (Tableau Dashboard) Analyzed the marketing funnel to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.\nView Project »\n ### Hospital KPIs Analysis Evaluated hospital operational performance using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.\nView Project »\n ### Email Campaign Funnel Analysis\nAssessed email engagement performance across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.\nView Project »"
+  },
+  {
+    "objectID": "Projects.html#my-projects",
+    "href": "Projects.html#my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a selection of my data and analytics projects, with summaries and previews:\n ### Customer Journeys (Tableau Dashboard) Analyzed the marketing funnel to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.\nView Project »\n ### Hospital KPIs Analysis Evaluated hospital operational performance using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.\nView Project »\n ### Email Campaign Funnel Analysis\nAssessed email engagement performance across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.\nView Project »"
+  },
+  {
+    "objectID": "Projects name.html",
+    "href": "Projects name.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a selection of my data and analytics projects, with summaries and previews:\n\n\n\nAnalyzed the marketing funnel to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.\nView Project »\n\n\n\n\nEvaluated hospital operational performance using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.\nView Project »\n\n\n\n\nAssessed email engagement performance across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.\nView Project »"
+  },
+  {
+    "objectID": "Projects name.html#my-projects",
+    "href": "Projects name.html#my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a selection of my data and analytics projects, with summaries and previews:\n\n\n\nAnalyzed the marketing funnel to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.\nView Project »\n\n\n\n\nEvaluated hospital operational performance using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.\nView Project »\n\n\n\n\nAssessed email engagement performance across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.\nView Project »"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Data Analysis: Python (Pandas, NumPy), SQL, Excel, Power Query\nVisualization: Tableau, Power BI, Matplotlib"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Data Analysis: Python (Pandas, NumPy), SQL, Excel, Power Query\nVisualization: Tableau, Power BI, Matplotlib"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "📑 Certifications",
+    "text": "📑 Certifications\n\nGoogle Data Analytics Professional Certificate (Coursera) (In progress)\nTableau Desktop Specialist (In progress)"
+  },
+  {
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
+    "title": "Skills & Certifications",
+    "section": "🌟 Soft Skills",
+    "text": "🌟 Soft Skills\n\nStrategic Thinking & Business Analysis\n\nCommunication & Presentation Skills\n\nLeadership & Team Collaboration\n\nProblem Solving & Critical Thinking"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "📬 Contact Me",
+    "section": "",
+    "text": "I would love to connect with you! You can reach me through the following:\n\n\n\nLinkedIn\n\nGitHub\n\nTableau Public\n\n\n\n\n\nharpreetsingh.1988@myucwest.ca\n\n\n\n\n\nBased in Vancouver, Canada"
+  },
+  {
+    "objectID": "contact.html#professional-profiles",
+    "href": "contact.html#professional-profiles",
+    "title": "📬 Contact Me",
+    "section": "",
+    "text": "LinkedIn\n\nGitHub\n\nTableau Public"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "📬 Contact Me",
+    "section": "",
+    "text": "harpreetsingh.1988@myucwest.ca"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "📬 Contact Me",
+    "section": "",
+    "text": "Based in Vancouver, Canada"
+  }
+]

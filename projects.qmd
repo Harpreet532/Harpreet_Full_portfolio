@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+## My Projects
+
+Here’s a selection of my data and analytics projects, with summaries and previews:
+
+
+
+![Customer Journey Dashboard](images/customer_journey.png){width=100%}
+### Customer Journeys (Tableau Dashboard)
+Analyzed the **marketing funnel** to identify drop-offs between impressions, clicks, and purchases. Built an interactive Tableau dashboard to optimize conversion strategies.  
+[View Project »](#)
+
+
+![Hospital KPIs](images/hospital_kpis.png){width=100%}
+### Hospital KPIs Analysis
+Evaluated hospital **operational performance** using patient visits, drug administration data, and survey results. Highlighted trends in patient care quality, safety, and satisfaction.  
+[View Project »](#)
+
+
+![Email Funnel](images/email_funnel.png){width=100%}
+### Email Campaign Funnel Analysis
+
+
+
+
+
+
+
+
+Assessed **email engagement performance** across categories, with CTR as a key KPI. Provided insights for targeted marketing strategies to improve retention and conversions.  
+[View Project »](#)
+
+
+
