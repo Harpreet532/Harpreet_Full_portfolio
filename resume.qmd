@@ -5,7 +5,7 @@
 # 📄 Resume
 
 
-[⬇️ Download my Resume (PDF)](assets/resume.pdf){.btn .btn-primary}
+[⬇️ Download my Resume (PDF)](download/resume.pdf)
 
 
 
