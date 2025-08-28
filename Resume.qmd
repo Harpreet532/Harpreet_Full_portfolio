@@ -5,7 +5,7 @@
 # 📄 Resume
 
 
-[⬇️ Download my Resume (PDF)](Resume.pdf)
+[⬇️ Download my Resume (PDF)]<a href="Resume.pdf" download>Download Resume</a>
 
 
 
